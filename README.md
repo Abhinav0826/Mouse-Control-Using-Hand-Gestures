@@ -13,7 +13,7 @@ A Machine Learning-based project that enables mouse control using hand gestures.
 
 ## Demo Video
 
-
+ML Project.mp4
 
 ## How It Works  
 
